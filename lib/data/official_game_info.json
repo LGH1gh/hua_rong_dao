@@ -1,0 +1,193 @@
+[
+  {
+    "name": "测试关卡",
+    "description": "Wonderful",
+    "src": "lib/data/image/1.png",
+    "bestTime": 30,
+    "bestStep": 30,
+    "info": [
+      {
+        "tileId": 0,
+        "position": [1, 1],
+        "block": {"name": "曹操", "type": "LargeSquare"}
+      }
+    ]
+  },
+  {
+    "name": "暗度陈仓",
+    "description": "Wonderful",
+    "src": "lib/data/image/anduchencang.png",
+    "bestTime": 30,
+    "bestStep": 30,
+    "info": [
+      {
+        "tileId": 0,
+        "position": [1, 1],
+        "block": {"name": "曹操", "type": "LargeSquare"}
+      },
+      {
+        "tileId": 1,
+        "position": [0, 0],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 2,
+        "position": [0, 1],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 3,
+        "position": [0, 2],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 4,
+        "position": [0, 3],
+        "block": {"name": "马超", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 5,
+        "position": [1, 0],
+        "block": {"name": "张飞", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 6,
+        "position": [2, 3],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 7,
+        "position": [3, 0],
+        "block": {"name": "关羽", "type": "Rectangle"}
+      },
+      {
+        "tileId": 8,
+        "position": [3, 2],
+        "block": {"name": "赵云", "type": "Rectangle"}
+      },
+      {
+        "tileId": 9,
+        "position": [4, 1],
+        "block":{"name": "黄忠", "type": "Rectangle"}
+      }
+    ]
+  },
+  {
+    "name": "兵临曹营",
+    "description": "Wonderful",
+    "src": "lib/data/image/binglincaoying.png",
+    "bestTime": 10,
+    "bestStep": 10,
+    "info": [
+      {
+        "tileId": 0,
+        "position": [0, 1],
+        "block": {"name": "曹操", "type": "LargeSquare"}
+      },
+      {
+        "tileId": 1,
+        "position": [0, 0],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 2,
+        "position": [0, 3],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 3,
+        "position": [1, 0],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 4,
+        "position": [1, 3],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 5,
+        "position": [2, 1],
+        "block": {"name": "马超", "type": "Rectangle"}
+      },
+      {
+        "tileId": 6,
+        "position": [2, 0],
+        "block": {"name": "张飞", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 7,
+        "position": [2, 3],
+        "block": {"name": "关羽", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 8,
+        "position": [3, 1],
+        "block": {"name": "赵云", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 9,
+        "position": [3, 2],
+        "block":{"name": "黄忠", "type": "TransRectangle"}
+      }
+    ]
+  },
+  {
+    "name": "阿谀奉承",
+    "description": "Wonderful",
+    "src": "lib/data/image/eyufengcheng.png",
+    "bestTime": 20,
+    "bestStep": 20,
+    "info": [
+      {
+        "tileId": 0,
+        "position": [0, 0],
+        "block": {"name": "曹操", "type": "LargeSquare"}
+      },
+      {
+        "tileId": 1,
+        "position": [0, 2],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 2,
+        "position": [0, 3],
+        "block": {"name": "马超", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 3,
+        "position": [2, 0],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 4,
+        "position": [2, 2],
+        "block": {"name": "马超", "type": "Rectangle"}
+      },
+      {
+        "tileId": 5,
+        "position": [3, 0],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 6,
+        "position": [3, 1],
+        "block": {"name": "张飞", "type": "TransRectangle"}
+      },
+      {
+        "tileId": 7,
+        "position": [3, 2],
+        "block": {"name": "关羽", "type": "Rectangle"}
+      },
+      {
+        "tileId": 8,
+        "position": [4, 0],
+        "block": {"name": "卒", "type": "LittleSquare"}
+      },
+      {
+        "tileId": 9,
+        "position": [4, 2],
+        "block":{"name": "黄忠", "type": "Rectangle"}
+      }
+    ]
+  }
+]
